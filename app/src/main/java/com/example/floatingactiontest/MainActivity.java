@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     OvershootInterpolator interpolator = new OvershootInterpolator();
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
